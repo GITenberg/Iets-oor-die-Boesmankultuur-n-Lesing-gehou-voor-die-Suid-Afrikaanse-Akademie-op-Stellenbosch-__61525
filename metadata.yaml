@@ -1,0 +1,31 @@
+_repo: Iets-oor-die-Boesmankultuur-n-Lesing-gehou-voor-die-Suid-Afrikaanse-Akademie-op-Stellenbosch-__61525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Reenen, Reenen J.
+    aliases:
+    - Van Reenen, R. J. (Reenen J.)
+    - Reenen, Reenen J. van
+    birthdate: 1884
+    deathdate: 1935
+    gutenberg_agent_id: '51475'
+    url: http://www.gutenberg.org/2009/agents/51475
+    wikipedia: https://af.wikipedia.org/wiki/Reenen_J._van_Reenen
+description: ''
+gutenberg_issued: '2020-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61525'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Ethnology -- Africa, Southern'
+- !lcsh 'San (African people)'
+- !lcsh 'Art, San'
+- GITenberg
+title: "Iets oor die Boesmankultuur\r\n'n Lesing gehou voor die Suid-Afrikaanse Akademie\
+  \ op Stellenbosch, Januarie 1920, en gedruk op las van die Akademie"
+url: http://www.gutenberg.org/ebooks/61525
